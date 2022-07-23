@@ -3,7 +3,7 @@
 
 ![](https://ph-files.imgix.net/419f3000-59ea-44c9-a5b7-7c255ebf721e.png)
 
-[GitHub Pages](https://pages.github.com) hosted at `github.io` now have an alias to `page.as`
+GitHub Pages hosted at `github.io` now have an alias to `page.as`
 
 ### [nat.github.io/hello](https://nat.github.io/hello) 
 
