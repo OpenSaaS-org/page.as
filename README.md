@@ -4,7 +4,7 @@ GitHub Pages hosted at `github.io` now have an alias to `page.as`
 
 ### [nat.github.io/hello](https://nat.github.io/hello) 
 
-Is now also accessible from:
+Is now also at:
 
 ### [nat.page.as/hello](https://nat.page.as/hello/)
 
