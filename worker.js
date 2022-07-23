@@ -7,7 +7,6 @@ export default {
     }
     const [user] = url.hostname.split('.')
     url.hostname = user + '.github.io'
-    const res = await fetch(new Request(url.toString(), { redirect: 'follow' }))
-    return 
+    return fetch(new Request(url.toString(), { redirect: 'follow' }))
   }
 }
