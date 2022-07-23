@@ -8,8 +8,9 @@ is now also at:
 
 ### [nat.page.as/hello](https://nat.page.as/hello/)
 
-![](https://ph-files.imgix.net/419f3000-59ea-44c9-a5b7-7c255ebf721e.png)
-
 and as a fun bonus, you can also use the emoji domain `✨🚀.to`
 
 ### [nat.✨🚀.to/hello](https://nat.✨🚀.to/hello/)
+
+![](https://ph-files.imgix.net/419f3000-59ea-44c9-a5b7-7c255ebf721e.png)
+
