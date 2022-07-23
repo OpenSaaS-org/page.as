@@ -9,6 +9,6 @@ becomes
 https://[github-username].page.as/[repo-name]
 ```
 
-### [https://nathanclevenger.github.io/portfolio](https://nathanclevenger.github.io/portfolio) 
+### [https://nat.github.io/hello](https://nat.github.io/hello) 
 becomes
-### [https://nathanclevenger.page.as/portfolio](https://nathanclevenger.page.as/portfolio)
+### [https://nat.page.as/hello](https://nat.page.as/hello)
