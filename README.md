@@ -1,6 +1,4 @@
-# [Page.as](https://page.as) alias for [GitHub.io](https://github.io) [✨🚀](https://✨🚀.to)
-
-![](https://ph-files.imgix.net/cc64ce65-ed27-4626-8ba3-f224f85467d6.png)
+![Github Pages now available at Page.as](https://ph-files.imgix.net/cc64ce65-ed27-4626-8ba3-f224f85467d6.png)
 
 [GitHub Pages](https://pages.github.com) hosted at `github.io` now have an alias to `page.as`
 
