@@ -3,7 +3,7 @@ export default {
     const url = new URL(req.url)
     if (!url.pathname.endsWith('/')) {
         url.pathname = url.pathname + '/'
-        return new Response.redirect(url.toString(), 301)
+        return Response.redirect(url.toString(), 301)
     }
     const [user] = url.hostname.split('.')
     url.hostname = user + '.github.io'
