@@ -1,5 +1,5 @@
 export default {
-  fetch: async req => {
+  fetch: req => {
     const url = new URL(req.url)
     if (!url.pathname.endsWith('/')) {
         url.pathname = url.pathname + '/'
