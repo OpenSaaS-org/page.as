@@ -1,5 +1,5 @@
 export default {
-  fetch: req => {
+  fetch: async req => {
     const url = new URL(req.url)
     const [user] = url.hostname.split('.')
     url.hostname = user + '.github.io'
