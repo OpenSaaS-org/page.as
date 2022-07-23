@@ -1,7 +1,7 @@
 export default {
   fetch: async req => {
     const url = new URL(req.url)
-    if (!url.pathname.endsWith('/') {
+    if (!url.pathname.endsWith('/')) {
         url.pathname = url.pathname + '/'
         return new Response.redirect(destinationURL, 301)
     }
