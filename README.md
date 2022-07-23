@@ -8,3 +8,6 @@ becomes
 ```
 https://[github-username].page.as/[repo-name]
 ```
+
+So [https://nathanclevenger.github.io/portfolio](https://nathanclevenger.github.io/portfolio) becomes
+[https://nathanclevenger.page.as/portfolio](https://nathanclevenger.page.as/portfolio)
