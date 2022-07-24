@@ -3,6 +3,8 @@
 
 ![](https://ph-files.imgix.net/419f3000-59ea-44c9-a5b7-7c255ebf721e.png)
 
+![](https://ph-files.imgix.net/dc75165c-4e94-4759-b1ca-b719ab7f5aca.png)
+
 GitHub Pages hosted at `github.io` now have an alias to `page.as`
 
 ### [nat.github.io/hello](https://nat.github.io/hello) 
